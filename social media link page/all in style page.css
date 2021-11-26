@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+button{
+    background: chocolate;
+    margin: 49px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-display: swap;
+    
+}
+footer{
+    background: gray;
+    margin: 100px 0px;
+}
